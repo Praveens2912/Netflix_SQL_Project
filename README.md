@@ -9,3 +9,4 @@ Welcome to my Netflix SQL Data Analysis project. In this project, I've worked on
 - Identify the most common ratings for movies and TV shows.
 - List and analyze content based on release years, countries, and durations.
 - Explore and categorize content based on specific criteria and keywords.
+![Netflix logo][https://github.com/Praveens2912/Netflix_SQL_Project/blob/main/115783-3086x2099-desktop-hd-netflix-background-image.jpg]
